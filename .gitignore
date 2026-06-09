@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── MovieLens / Neo4j (проєкт Parshyn_nosql_3) ─────────────────────────────
+# Сирий датасет і розпакована папка — не комітимо (вантажиться окремо)
+ml-1m.zip
+ml-1m/
+*.dat
+# Локальні томи/логи Neo4j (якщо монтуються у репозиторій)
+/data/
+/logs/
+/plugins/
+

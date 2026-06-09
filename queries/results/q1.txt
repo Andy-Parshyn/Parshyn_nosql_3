@@ -1,0 +1,18 @@
+title, avgRating, numRatings
+"Close Shave, A (1995)", 4.521, 657
+"Usual Suspects, The (1995)", 4.517, 1783
+"Rear Window (1954)", 4.476, 1050
+"Third Man, The (1949)", 4.452, 480
+"Sixth Sense, The (1999)", 4.406, 2459
+"North by Northwest (1959)", 4.384, 1315
+"Silence of the Lambs, The (1991)", 4.352, 2578
+"Chinatown (1974)", 4.339, 1185
+"Manchurian Candidate, The (1962)", 4.333, 765
+"Matrix, The (1999)", 4.316, 2590
+"Strangers on a Train (1951)", 4.305, 482
+"M (1931)", 4.302, 308
+"Notorious (1946)", 4.294, 445
+"Vertigo (1958)", 4.273, 905
+"Shadow of a Doubt (1943)", 4.27, 233
+"Fargo (1996)", 4.255, 2513
+"Seven Days in May (1964)", 4.255, 165

@@ -1,0 +1,15 @@
+graphName, nodeCount, relationshipCount
+"movieGraph", 3883, 100000
+movie, pageRank
+"American Beauty (1999)", 9.6596
+"Star Wars: Episode IV - A New Hope (1977)", 9.136
+"Star Wars: Episode V - The Empire Strikes Back (1980)", 9.0977
+"Raiders of the Lost Ark (1981)", 7.9382
+"Fargo (1996)", 7.0343
+"Silence of the Lambs, The (1991)", 6.7605
+"Godfather, The (1972)", 6.3352
+"Matrix, The (1999)", 6.2873
+"Shawshank Redemption, The (1994)", 6.2778
+"Sixth Sense, The (1999)", 6.2444
+graphName
+"movieGraph"

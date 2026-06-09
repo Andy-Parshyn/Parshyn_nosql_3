@@ -1,0 +1,21 @@
+labels, node, degree
+["Movie"], "American Beauty (1999)", 3430
+["Movie"], "Star Wars: Episode V - The Empire Strikes Back (1980)", 2995
+["Movie"], "Star Wars: Episode IV - A New Hope (1977)", 2995
+["Movie"], "Star Wars: Episode VI - Return of the Jedi (1983)", 2888
+["Movie"], "Jurassic Park (1993)", 2675
+["Movie"], "Saving Private Ryan (1998)", 2656
+["Movie"], "Terminator 2: Judgment Day (1991)", 2652
+["Movie"], "Matrix, The (1999)", 2593
+["Movie"], "Back to the Future (1985)", 2585
+["Movie"], "Silence of the Lambs, The (1991)", 2580
+["Movie"], "Men in Black (1997)", 2542
+["Movie"], "Fargo (1996)", 2516
+["Movie"], "Raiders of the Lost Ark (1981)", 2516
+["Movie"], "Sixth Sense, The (1999)", 2460
+["Movie"], "Braveheart (1995)", 2446
+["Movie"], "Shakespeare in Love (1998)", 2371
+["Movie"], "Princess Bride, The (1987)", 2322
+["User"], "User 4169", 2314
+["Movie"], "Schindler's List (1993)", 2306
+["Movie"], "L.A. Confidential (1997)", 2292

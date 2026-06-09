@@ -1,0 +1,22 @@
+graphName, nodeCount, relationshipCount
+"userSimilarity", 6040, 100000
+communityId, size
+4276, 837
+5681, 305
+2063, 248
+3390, 80
+5, 1
+6, 1
+2, 1
+4, 1
+8, 1
+7, 1
+communityCount, modularity, ranLevels
+4574, 0.1674, 1
+=== Top-3 genres per largest communities ===
+communityId, size, top3Genres
+4168, 855, ["Drama", "Comedy", "Action"]
+4032, 318, ["Comedy", "Drama", "Action"]
+2029, 297, ["Drama", "Comedy", "Thriller"]
+2, 1, ["Adventure", "Comedy", "Action"]
+4, 1, ["Drama", "Comedy", "Thriller"]
